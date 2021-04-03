@@ -1,2 +1,2 @@
-Test1.txt Code
-// Test progams
+//Test1.txt Program Code File
+// Test programs
